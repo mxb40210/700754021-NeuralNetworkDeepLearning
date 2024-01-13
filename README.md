@@ -23,8 +23,10 @@ Repository Link: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning
 
 ## Assignments
 
-| Assignment | Branch Name | Assignment README | 
-|------------|-------------|-------------------|
-| ICP-1      | ICP-1       | ICP-1_README.md   |
+| Assignment        | Branch Name | Assignment README    | 
+|-------------------|-------------|----------------------|
+| [Assignment 1][1] | [ICP-1][2]  | [ICP-1_README.md][3] |
 
-
+[1]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/main/assignments/assigment1
+[2]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/ICP-1
+[3]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assigment1/ICP-1_README.md
