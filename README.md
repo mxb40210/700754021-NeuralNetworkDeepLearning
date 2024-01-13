@@ -4,6 +4,7 @@
 
 1. [Introduction](#introduction)
 2. [Basic Details](#basic-details)
+3. [Assignments](#assignments)
 
 ## Introduction
 Manoj Bala's repository for assignments, projects, course work etc
@@ -20,5 +21,10 @@ Repository Link: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning
 | CRN        | 23441                                  |
 | Course     | CS5720 Neural Networks & Deep Learning |
 
+## Assignments
+
+| Assignment | Branch Name | Assignment README | 
+|------------|-------------|-------------------|
+| ICP-1      | ICP-1       | ICP-1_README.md   |
 
 
