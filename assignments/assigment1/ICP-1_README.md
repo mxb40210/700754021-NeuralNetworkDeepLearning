@@ -128,7 +128,7 @@ Assignment 1 comprises of 3 questions containing code in individual files
 
 ## Recordings
 
-[![Recording](images/Question_1_a.png)](https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assignment1/ICP-1.mov)
+[![Recording](images/Question_1_a.png)][2]
 
 [1]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assignment1/ICP-1.pdf
 [2]: https://drive.google.com/file/d/1FbU-bgx_xCo_Suo_uFXL0Kpx1Kv_eZOR/view?usp=sharing
