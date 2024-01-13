@@ -1,0 +1,30 @@
+# macOS system files
+.DS_Store
+*/.DS_Store
+
+# Python virtual environment
+venv/
+
+# PyCharm configuration files
+.idea/
+
+# Compiled Python files
+__pycache__/
+
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+
+# Python environment markers
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Other generated files
+*.sqlite
+*.swp
