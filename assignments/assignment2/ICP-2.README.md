@@ -1,4 +1,7 @@
-# Assignment 1 :: ICP-1
+# Assignment 2 :: ICP-2
+
+[PDF Document][1]  
+[Short Video][2]
 
 ## Table of Contents
 
@@ -8,6 +11,7 @@
 4. [Instructions](#instructions) 
 5. [Solutions](#solutions)
 6. [Screenshots](#screenshots)
+7. [Recordings](#recordings)
 
 ## Introduction
 
@@ -159,3 +163,9 @@ Assignment 2 comprises of 3 questions containing code in individual files
 
 ![Output_3](images/Question_3.png "Output_3")
 
+## Recordings
+
+[![Recording](images/Question_1_a.png)][2]
+
+[1]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assignment2/23441_700754021_ICP-2.pdf
+[2]: https://drive.google.com/file/d/1AIlZtKgCrUqvPMf22wwt894BaahSuVw7/view?usp=sharing
