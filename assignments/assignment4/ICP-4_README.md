@@ -194,13 +194,23 @@ Assignment 4 comprises of 2 questions containing code in single Python Jupyter N
 
 ## Screenshots
 
-![Output_1](images/Question_1.png "Output_1")
+![Output_1](images/Question_1_1.png "Output_1_1")
+
+![Output_1](images/Question_1_2.png "Output_1_2")
+
+![Output_1](images/Question_1_3.png "Output_1_3")
+
+![Output_1](images/Question_1_4.png "Output_1_4")
+
+![Output_1](images/Question_1_5.png "Output_1_5")
+
+![Output_1](images/Question_1_6.png "Output_1_6")
 
 ![Output_2](images/Question_2.png "Output_2")
 
 ## Recordings
 
-[![Recording](images/Question_1.png)][2]
+[![Recording](images/Question_1_6.png)][2]
 
 [1]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assignment4/23441_700754021_ICP-4.pdf
-[2]: https://drive.google.com/file/d/1pxfsLM9b1ZcrkKdcNWZ3gZ-s6inAhTXC/view?usp=sharing
+[2]: https://drive.google.com/file/d/13JVrOji7v9U-BMrvETCcHEoD8IxvQHnc/view?usp=sharing
