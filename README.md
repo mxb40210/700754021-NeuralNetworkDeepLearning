@@ -30,6 +30,7 @@ Repository Link: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning
 | [Assignment 3][7]  | [ICP-3][8]  | [ICP-3_README.md][9]  |
 | [Assignment 4][10] | [ICP-4][11] | [ICP-4_README.md][12] |
 | [Assignment 5][13] | [ICP-5][14] | [ICP-5_README.md][15] |
+| [Assignment 7][19] | [ICP-7][20] | [ICP-7_README.md][21] |
 
 [1]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/main/assignments/assignment1
 [2]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/ICP-1
@@ -46,4 +47,7 @@ Repository Link: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning
 [13]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/main/assignments/assignment5
 [14]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/ICP-5
 [15]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assignment5/ICP-5_README.md
+[19]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/main/assignments/assignment7
+[20]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/ICP-7
+[21]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assignment7/ICP-7_README.md
 
