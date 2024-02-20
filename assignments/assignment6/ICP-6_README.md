@@ -1,4 +1,4 @@
-# Assignment 7 :: ICP-7
+# Assignment 6 :: ICP-6
 
 [PDF Document][1]  
 [Short Video][2]
@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Assignment 7 comprises of 2 questions containing code in one Jupyter Python Notebook
+Assignment 6 comprises of 2 questions containing code in one Jupyter Python Notebook
 + solutions.ipynb
 
 ## Basic Details
@@ -335,5 +335,5 @@ Assignment 7 comprises of 2 questions containing code in one Jupyter Python Note
 
 [![Recording](images/Question_1_1.png)][2]
 
-[1]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assignment7/23441_700754021_ICP-7.pdf
+[1]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assignment6/23441_700754021_ICP-6.pdf
 [2]: https://drive.google.com/file/d/1pHtINSReESQ-_mldqDzLCNmNfvhWVN6u/view?usp=sharing
