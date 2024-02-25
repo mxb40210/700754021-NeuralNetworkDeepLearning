@@ -5,6 +5,7 @@
 1. [Introduction](#introduction)
 2. [Basic Details](#basic-details)
 3. [Assignments](#assignments)
+4. [Project](#project)
 
 ## Introduction
 Manoj Bala's repository for assignments, projects, course work etc
@@ -32,6 +33,12 @@ Repository Link: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning
 | [Assignment 5][13] | [ICP-5][14] | [ICP-5_README.md][15] |
 | [Assignment 6][16] | [ICP-6][17] | [ICP-6_README.md][18] |
 
+## Project
+
+| Deliverable            | Branch Name            |  
+|------------------------|------------------------|
+| [Project-Proposal][P1] | [project-proposal][P2] | 
+
 [1]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/main/assignments/assignment1
 [2]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/ICP-1
 [3]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assignment1/ICP-1_README.md
@@ -51,3 +58,5 @@ Repository Link: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning
 [17]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/ICP-6
 [18]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assignment6/ICP-6_README.md
 
+[P1]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/main/project/docs/23441_700754021_Project-Proposal.pdf
+[P2]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/project-proposal
