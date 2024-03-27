@@ -34,6 +34,7 @@ Repository Link: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning
 | [Assignment 6][16] | [ICP-6][17] | [ICP-6_README.md][18] |
 | [Assignment 7][19] | [ICP-7][20] | [ICP-7_README.md][21] |
 | [Assignment 8][22] | [ICP-8][23] | [ICP-8_README.md][24] |
+| [Assignment 9][25] | [ICP-9][26] | [ICP-9_README.md][27] |
 
 ## Project
 
@@ -65,6 +66,9 @@ Repository Link: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning
 [22]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/main/assignments/assignment8
 [23]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/ICP-8
 [24]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assignment8/ICP-8_README.md
+[25]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/main/assignments/assignment9
+[26]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/ICP-9
+[27]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assignment9/ICP-9_README.md
 
 [P1]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/main/project/docs/23441_700754021_Project-Proposal.pdf
 [P2]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/project-proposal
