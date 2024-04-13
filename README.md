@@ -38,9 +38,10 @@ Repository Link: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning
 
 ## Project
 
-| Deliverable            | Branch Name            |  
-|------------------------|------------------------|
-| [Project-Proposal][P1] | [project-proposal][P2] | 
+| Deliverable                   | Branch Name                   |  
+|-------------------------------|-------------------------------|
+| [Project-Proposal][P1]        | [project-proposal][P2]        |
+| [Project-Final-Increment][P3] | [project-final-increment][P4] |
 
 [1]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/main/assignments/assignment1
 [2]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/ICP-1
@@ -70,5 +71,7 @@ Repository Link: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning
 [26]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/ICP-9
 [27]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/blob/main/assignments/assignment9/ICP-9_README.md
 
-[P1]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/main/project/docs/23441_700754021_Project-Proposal.pdf
+[P1]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/main/project/proposal/23441_700754021_Project-Proposal.pdf
 [P2]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/project-proposal
+[P3]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/main/project/report/23441_700754021_Project-Report.pdf
+[P4]: https://github.com/mxb40210/700754021-NeuralNetworkDeepLearning/tree/project-final-increment
